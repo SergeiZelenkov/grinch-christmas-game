@@ -77,6 +77,8 @@ setInterval(() => {
   (codeSenden.style.opacity = codeSenden.style.opacity == 0.5 ? 1 : 0.5), 2000;
 });
 
+const video = document.querySelector(".win-video");
+
 codeSenden.addEventListener("click", function () {
   const wert = inputCode.value;
   if (wert.toLowerCase() === "kisulik") {
@@ -108,6 +110,7 @@ codeSenden.addEventListener("click", function () {
   `;
     }, 28000);
   }
+  video.src = "https://www.youtube.com/embed/I71QCf6Bn5Y?autoplay=1&mute=1";
 });
 
 const resetGame = function () {
