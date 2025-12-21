@@ -4,7 +4,7 @@ Interaktives Weihnachts-Puzzle im Grinch-Stil.
 
 ## 🔗 Demo
 
-https://SergeiZelenkov.github.io/grinch-game/
+https://sergeizelenkov.github.io/grinch-christmas-game/
 
 ## 🚀 Features
 
