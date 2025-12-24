@@ -94,6 +94,8 @@ span {
   cursor: pointer;
   opacity: 0.75;
   border-radius: 0 5px 5px 0;
+  color: #fafad2;
+  font-family: cursive;
 }
 
 .cell:empty::before {
@@ -116,6 +118,8 @@ span {
   border: none;
   cursor: pointer;
   opacity: 0.85;
+  color: #fafad2;
+  font-family: cursive;
 }
 
 #null {
@@ -217,7 +221,7 @@ span {
   border: none;
   border-radius: 10px;
   font-size: 24px;
-  font-family: Times;
+  font-family: cursive;
   font-weight: bold;
   color: white;
   opacity: 0.75;
